@@ -14,7 +14,7 @@ namespace Task3
 
             foreach (var star in movieStars)
             {
-                var age = CalculateAge(star.DateOfBirth);
+                var age = CurrentAge(star.DateOfBirth);
                 Console.WriteLine(star.Name + " " + star.Surname);
                 Console.WriteLine(star.Sex);
                 Console.WriteLine(star.Nationality);
@@ -23,7 +23,7 @@ namespace Task3
             }
         }
 
-        private static int CalculateAge(DateTime dateOfBirth)
+        private static int CurrentAge(DateTime dateOfBirth)
         {
             var currentAge = 0;
 
