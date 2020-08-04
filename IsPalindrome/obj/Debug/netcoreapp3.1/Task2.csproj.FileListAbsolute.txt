@@ -1,0 +1,12 @@
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\cecko\source\repos\InensiaInterviewTask\IsPalindrome\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
